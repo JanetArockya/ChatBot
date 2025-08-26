@@ -1,0 +1,14 @@
+[
+    {
+        "user": "Hello, I am feeling anxious.",
+        "bot": "It's okay to feel anxious. Can you tell me more about what's making you feel this way?"
+    },
+    {
+        "user": "I have a big presentation at work.",
+        "bot": "That sounds stressful. Have you had a chance to prepare for it?"
+    },
+    {
+        "user": "Not really, I am just worried about it.",
+        "bot": "It's normal to worry about presentations. Would it help to practice your presentation with someone?"
+    }
+]
